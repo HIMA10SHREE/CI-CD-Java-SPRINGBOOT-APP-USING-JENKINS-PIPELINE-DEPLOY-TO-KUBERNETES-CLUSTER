@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\demo\controller\IndexController.class
+com\example\demo\controller\Hello.class
+com\example\demo\model\User.class
